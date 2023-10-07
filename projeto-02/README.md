@@ -1,11 +1,12 @@
 # Executar os comandos:
 npm install
 
-- Para criar os arquivos da pasta dist 
-gulp
+### Para criar os arquivos da pasta dist
+  
+- gulp
 
-gulp images
+- gulp images
 
-- Para iniciar o servidor
+### Para iniciar o servidor
 
 gulp serve
